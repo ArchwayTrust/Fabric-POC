@@ -1,2 +1,2 @@
-# Fabric-POC
-Proof of concept demo's for migration to Fabric
+# Microsoft Fabric Proof of Concepts
+This repository will house demo examples for data engineering in the education sector within Microsoft Fabric.
